@@ -1,4 +1,4 @@
-=== bS5 Animate On Scroll ===
+=== bS Animate On Scroll ===
 
 Contributors: The bootScore Contributors
 
