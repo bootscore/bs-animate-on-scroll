@@ -7,7 +7,7 @@ Tested up to: 5.8.1
 Requires PHP: 5.6
 Stable tag: 5.0.0.1
 License: MIT License
-License URI: https://github.com/bootscore/bs5-animate-on-scroll/blob/main/LICENSE
+License URI: https://github.com/bootscore/bs-animate-on-scroll/blob/main/LICENSE
 
 Animate On Scroll by Michał Sajnóg https://michalsnik.github.io/aos/ Plugin for WordPress, Copyright 2021 Bastian Kreiter.
 
