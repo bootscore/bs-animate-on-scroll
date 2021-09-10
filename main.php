@@ -1,5 +1,5 @@
 <?php
-/*Plugin Name: bS5 Animate On Scroll
+/*Plugin Name: bS Animate On Scroll
 Plugin URI: https://bootscore.me/plugins/bs-animate-on-scroll/
 Description: This plugin registers and initializes AOS library https://michalsnik.github.io/aos/ in WordPress. You can then use the animations by writing them into your HTML code like &lt;div data-aos="zoom-in-down"&gt;&lt;/div&gt;.
 Version: 5.0.0.1
