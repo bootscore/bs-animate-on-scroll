@@ -1,13 +1,13 @@
 === bS5 Animate On Scroll ===
 
-Contributors: craftwerk
+Contributors: The bootScore Contributors
 
 Requires at least: 4.5
-Tested up to: 5.6
+Tested up to: 5.8.1
 Requires PHP: 5.6
 Stable tag: 5.0.0.1
-License: GNU General Public License v2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+License: MIT License
+License URI: https://github.com/bootscore/bs5-animate-on-scroll/blob/main/LICENSE
 
 Animate On Scroll by Michał Sajnóg https://michalsnik.github.io/aos/ Plugin for WordPress, Copyright 2021 Bastian Kreiter.
 
